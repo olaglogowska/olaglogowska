@@ -1,4 +1,4 @@
-# Hi there, I'm Ola Glogowska! 👋
+# Hi there, I'm Ola Głogowska! 👋
 
 Welcome to my GitHub profile. I'm a passionate data analyst with a keen interest in exploring the dynamic world of technology.
 
@@ -9,8 +9,8 @@ Welcome to my GitHub profile. I'm a passionate data analyst with a keen interest
 - 💞️ I’m open to collaboration on projects related to data analysis and machine learning.
 
 ## Get in Touch
-- 📫 How to reach me: [głogowskaleksandra@gmail.com] or [www.linkedin.com/in/aleksandra-głogowska] 
-- 😄 Pronouns: She/Her <!-- Update with your preferred pronouns -->
+- 📫 How to reach me: [glogowskaleksandra@gmail.com] or [www.linkedin.com/in/aleksandra-głogowska] 
+- 😄 Pronouns: Ola 🌼
 
 ## Fun Fact
 - ⚡ Fun fact: I enjoy discovering hidden patterns in data and turning them into valuable insights.
